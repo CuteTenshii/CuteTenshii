@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I’m <a href="https://github.com/endermctv">@endermctv! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">@ToolBotDiscord</a>.</p>
+<p align="center">I’m <a href="https://github.com/endermctv">@endermctv</a>! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">@ToolBotDiscord</a>.</p>
 
 ## My statistics
 
