@@ -1,4 +1,4 @@
-# Hi there! 👋
+<h1 align="center">Hi there! 👋</h1>
 
 <!--
 **endermctv/endermctv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m [@endermctv](https://github.com/endermctv). I’m the creator and developer of the french Discord bot [@ToolBotDiscord](https://github.com/ToolBotDiscord).
+<p align="center">I’m [@endermctv](https://github.com/endermctv). I’m the creator and developer of the french Discord bot [@ToolBotDiscord](https://github.com/ToolBotDiscord).</p>
 
 ## My statistics
 
