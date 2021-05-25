@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I’m <a href="https://github.com/endermctv">@endermctv</a>! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">@ToolBotDiscord</a>.</p>
+<p align="center">I’m EnderMC! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a>.</p>
 
-## My statistics
+## My stats
 
 ![](https://github-readme-stats.vercel.app/api?username=endermctv&theme=dark&show_icons=true)
+
+## Social links
+
+- [Twitter](https://twitter.com/EnderMCtv)
+- [Instagram](https://instagram.com/endermctv)
