@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <p align="center">I’m EnderMC! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a>.</p>
 
-<h2 align="center">My stats</h2>
+<h2 align="center">My statistics</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=endermctv&theme=dark&show_icons=true" /></p>
