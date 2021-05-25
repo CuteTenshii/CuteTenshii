@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <h2 align="center">My stats</h2>
 
-<p align="center"><a href="/endermctv?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=endermctv&theme=dark&show_icons=true" /></a></p>
+<p align="center"><a href="https://github.com/endermctv?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=endermctv&theme=dark&show_icons=true" /></a></p>
