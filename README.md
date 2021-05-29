@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋!</h1>
 
 <div align="center">
-  <a href="https://twitter.com/EnderMCtv"><img src="https://img.shields.io/badge/Twitter-%40EnderMCtv-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+  <a href="https://twitter.com/NetherMCtv"><img src="https://img.shields.io/badge/Twitter-%40NetherMCtv-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="https://instagram.com/endermctv"><img src="https://img.shields.io/badge/Instagram-%40endermctv-orange?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
   <a href="https://www.twitch.com/endermctv"><img src="https://img.shields.io/badge/Twitch-%40endermctv-purple?style=for-the-badge&logo=twitch" alt="Twitch" /></a>
 </div>
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I’m EnderMC! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a>.</p>
+<p align="center">I’m NetherMC! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a>.</p>
 
 <h2 align="center">My statistics</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=endermctv&theme=dark&show_icons=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NetherMCtv&theme=dark&show_icons=true" /></p>
