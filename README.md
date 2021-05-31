@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">My statistics</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NetherMCtv&theme=dark&show_icons=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NetherMCtv&theme=material-palenight&show_icons=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetherMCtv&layout=compact&theme=material-palenight" /></p>
