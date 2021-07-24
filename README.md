@@ -1,13 +1,19 @@
 <h1 align="center">Hi there 👋!</h1>
 
 <div align="center">
-  <a href="https://twitter.com/NetherMC_"><img src="https://img.shields.io/badge/Twitter-%40NetherMC_-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <!--<a href="https://instagram.com/endermctv"><img src="https://img.shields.io/badge/Instagram-%40NetherMCtv-orange?style=for-the-badge&logo=instagram" alt="Instagram" /></a>-->
-  <a href="https://www.twitch.com/NetherMCtv"><img src="https://img.shields.io/badge/Twitch-%40NetherMCtv-purple?style=for-the-badge&logo=twitch" alt="Twitch" /></a>
+  <a href="https://twitter.com/NetherMCtv">
+    <img src="https://img.shields.io/badge/Twitter-%40NetherMC_-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/nethermc_">
+    <img src="https://img.shields.io/badge/Instagram-%40nethermc_-orange?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.com/NetherMCtv">
+    <img src="https://img.shields.io/badge/Twitch-%40NetherMCtv-purple?style=for-the-badge&logo=twitch" alt="Twitch" />
+  </a>
 </div>
 
 <!--
-**endermctv/endermctv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nethermctv/nethermctv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
