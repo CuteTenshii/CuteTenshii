@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Twitter-%40NetherMCtv-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
   <a href="https://instagram.com/nethermc_">
-    <img src="https://img.shields.io/badge/Instagram-%40nethermc_-orange?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40nethermc__-orange?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://www.twitch.com/NetherMCtv">
     <img src="https://img.shields.io/badge/Twitch-%40NetherMCtv-purple?style=for-the-badge&logo=twitch" alt="Twitch" />
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I’m NetherMC! I’m the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a>.</p>
+<p align="center">I’m NetherMC! I was the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a> (now the bot is <em>dead</em>).</p>
 
 <h2 align="center">My statistics</h2>
 
