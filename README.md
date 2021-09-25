@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋!</h1>
 
 <div align="center">
-  <a href="https://twitter.com/NetherMCtv">
-    <img src="https://img.shields.io/badge/Twitter-%40NetherMCtv-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <a href="https://twitter.com/NetherMC_">
+    <img src="https://img.shields.io/badge/Twitter-%40NetherMC__-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
   <a href="https://instagram.com/nethermc_">
     <img src="https://img.shields.io/badge/Instagram-%40nethermc__-orange?style=for-the-badge&logo=instagram" alt="Instagram" />
