@@ -1,35 +1,52 @@
-<h1 align="center">Hi there 👋!</h1>
+<h1 align="center">Hi there!</h1>
 
+<!-- Social buttons -->
 <div align="center">
-  <a href="https://twitter.com/NetherMC_">
-    <img src="https://img.shields.io/badge/Twitter-%40NetherMC__-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <a href="https://twitter.com/NetherMC_"><img src="https://img.shields.io/badge/Twitter-%40NetherMC__-%2326a1f2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.twitch.tv/NetherMCtv"><img src="https://img.shields.io/badge/Twitch-%40NetherMCtv-%239146ff?style=for-the-badge&logo=twitch" /></a>
+</div>
+<!-- Sponsor buttons -->
+<div align="center">
+  <a href="https://ko-fi.com/S6S55EGKS">
+    <img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
   </a>
-  <a href="https://instagram.com/nethermc_">
-    <img src="https://img.shields.io/badge/Instagram-%40nethermc__-orange?style=for-the-badge&logo=instagram" alt="Instagram" />
+  <a href="https://www.patreon.com/bePatron?u=54154597">
+    <img src="https://img.shields.io/badge/Patreon-Become%20a%20Patron!-%23FF424D?style=for-the-badge&logo=patreon" />
   </a>
-  <a href="https://www.twitch.com/NetherMCtv">
-    <img src="https://img.shields.io/badge/Twitch-%40NetherMCtv-purple?style=for-the-badge&logo=twitch" alt="Twitch" />
+  <a href="https://tipeee.com/nethermc">
+    <img src="https://img.shields.io/badge/Tipeee-Support%20me-%23d64758?style=for-the-badge" />
+  </a>
+  <a href="https://opencollective.com/nethermc">
+    <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/NetherMC?logo=opencollective&style=for-the-badge" />
   </a>
 </div>
 
-<!--
-**nethermctv/nethermctv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<!-- Little presentation of me :) -->
+<p align="center">
+  Hi! I'm NetherMC, I'm 14 yo. Yes I'm kind lol<br />
+  I was the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a> (but now the bot is <em>dead</em> ☹ &ndash; because of inactivity).
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Now, a big? presentation of me :D -->
+<h2 align="center">About me&hellip;</h2>
 
-<p align="center">I’m NetherMC! I was the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a> (now the bot is <em>dead</em>).</p>
+<div align="center">
+  <p></p>
+  <p>I'm currently writing this section 😄</p>
+</div>
 
+<!-- All my projects -->
+<h3 align="center">My projects</h3>
+
+<div align="center">
+  <p>I'm currently writing this section 😄</p>
+</div>
+
+<!-- And my GitHub statistics -->
 <h2 align="center">My statistics</h2>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NetherMCtv&theme=material-palenight&show_icons=true" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetherMCtv&layout=compact&theme=material-palenight" /></p>
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=NetherMCtv&theme=tokyonight&show_icons=true" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetherMCtv&layout=compact&theme=tokyonight" /></p>
+</div>
