@@ -25,7 +25,7 @@
 
 <!-- Little presentation of me :) -->
 <p align="center">
-  Hi! I'm NetherMC, I'm 14 yo. Yes I'm kind lol<br />
+  Hi! I'm NetherMC, I'm 15 yo<br />
   I was the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a> (but now the bot is <em>dead</em> ☹ &ndash; because of inactivity).
 </p>
 
