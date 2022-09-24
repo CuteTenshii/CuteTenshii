@@ -6,7 +6,7 @@
   <a href="https://www.twitch.tv/NetherMCtv"><img src="https://img.shields.io/badge/Twitch-%40NetherMCtv-%239146ff?style=for-the-badge&logo=twitch" /></a>
 </div>
 <!-- Sponsor buttons -->
-<div align="center">
+<!--<div align="center">
   <a href="https://ko-fi.com/S6S55EGKS">
     <img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
   </a>
@@ -19,7 +19,7 @@
   <a href="https://opencollective.com/nethermc">
     <img alt="Open Collective sponsors" src="https://img.shields.io/opencollective/sponsors/NetherMC?logo=opencollective&style=for-the-badge" />
   </a>
-</div>
+</div>->
 
 <hr />
 
@@ -41,7 +41,8 @@
 <h3 align="center">My projects</h3>
 
 <div align="center">
-  <p>I'm currently writing this section 😄</p>
+  <p><a href="/NetherMCtv/social-commands-plugin">SocialCommands</a> &bull; <em>A Spigot Plugin that adds commands like <code>/discord</code> to your server </em></p>
+  <p><a href="/NetherMCtv/social-commands-plugin">Nightcore Maker</a> &bull; <em> A Node.js program to make a nightcore version of a music in 10 seconds</p>
 </div>
 
 <!-- And my GitHub statistics -->
