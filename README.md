@@ -22,8 +22,7 @@
 
 <!-- Little presentation of me :) -->
 <p align="center">
-  Hi! I'm NetherMC, I'm 15 yo<br />
-  I was the creator and developer of the french Discord bot <a href="https://github.com/ToolBotDiscord">ToolBot</a> (but now the bot is <em>dead</em> ☹ &ndash; because of inactivity).
+  Hi! I'm Yuuto, I'm 15 yo
 </p>
 
 <!-- Now, a big? presentation of me :D -->
@@ -38,14 +37,14 @@
 <h3 align="center">My projects</h3>
 
 <div align="center">
-  <p><a href="/NetherMCtv/ReturnTwitterTweetSource">Return Twitter Tweet Source</a> &bull; <em>Return from what Twitter client a tweet was published</em></p>
-  <p><a href="/NetherMCtv/social-commands-plugin">SocialCommands</a> &bull; <em>A Spigot Plugin that adds commands like <code>/discord</code> to your server </em></p>
-  <p><a href="/NetherMCtv/social-commands-plugin">Nightcore Maker</a> &bull; <em> A Node.js program to make a nightcore version of a music in 10 seconds</p>
+  <p><a href="/JustYuuto/ReturnTwitterTweetSource">Return Twitter Tweet Source</a> &bull; <em>Return from what Twitter client a tweet was published</em></p>
+  <p><a href="/JustYuuto/social-commands-plugin">SocialCommands</a> &bull; <em>A Spigot Plugin that adds commands like <code>/discord</code> to your server </em></p>
+  <p><a href="/JustYuuto/social-commands-plugin">Nightcore Maker</a> &bull; <em> A Node.js program to make a nightcore version of a music in 10 seconds</p>
 </div>
 
 <!-- And my GitHub statistics -->
 <h2 align="center">My statistics</h2>
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=NetherMCtv&theme=tokyonight&show_icons=true" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetherMCtv&layout=compact&theme=tokyonight" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=JustYuuto&theme=tokyonight&show_icons=true" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustYuuto&layout=compact&theme=tokyonight" /></p>
 </div>
