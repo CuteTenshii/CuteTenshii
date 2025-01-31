@@ -5,7 +5,7 @@
 
 # Hi! 👋
 
-I'm Yuuto, a 17 yo student from France 🇫🇷. I mainly use [TypeScript](https://www.typescriptlang.org/), [Bun](https://bun.sh/), [React ⚛️](https://react.dev/), [Tailwind 🌊](https://tailwindcss.com/).
+I'm Yuuto, a 17 yo student from France 🇫🇷. I mainly use [TypeScript](https://www.typescriptlang.org/), [Bun](https://bun.sh/), [React ⚛️](https://react.dev/) (also [Next.js 🔼](https://nextjs.org/) sometimes!), [Tailwind 🌊](https://tailwindcss.com/).
 
 ---
 
