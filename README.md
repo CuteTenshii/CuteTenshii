@@ -7,6 +7,7 @@
 
 [![Static Badge](https://img.shields.io/badge/my%20socials%20are%20on-miwa.lol%2Fyuuto-0e0d26)](https://miwa.lol/yuuto)
 [![Static Badge](https://img.shields.io/badge/my%20website-yuuto.dev-141f37)](https://yuuto.dev)
+![](https://komarev.com/ghpvc/?username=JustYuuto&label=profile+views)
 
 I'm Yuuto, a 17 yo student from France 🇫🇷.
 
