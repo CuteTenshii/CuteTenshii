@@ -15,7 +15,7 @@ I'm Yuuto, a 17 yo student from France 🇫🇷.
 I mainly use [TypeScript](https://www.typescriptlang.org/), [Bun](https://bun.sh/), [React ⚛️](https://react.dev/) (also [Next.js](https://nextjs.org/) sometimes!), [Tailwind 🌊](https://tailwindcss.com/).
 
 #### OSes
-As for my OS: I dual-boot [Arch Linux](https://archlinux.org/) (DE: [KDE Plasma](https://kde.org/plasma-desktop/)) & [Windows 11](https://en.wikipedia.org/wiki/Windows_11). I also have an hackintosh laptop running [macOS Monterey](https://www.apple.com/by/macos/monterey/).
+As for my OS: I dual-boot [Arch Linux](https://archlinux.org/) (DE: [KDE Plasma](https://kde.org/plasma-desktop/)) & [Windows 11](https://en.wikipedia.org/wiki/Windows_11) (I only use it for gaming). I also have an hackintosh laptop running [macOS Ventura](https://apps.apple.com/us/app/macos-ventura/id1638787999).
 
 #### IDE
 I use [JetBrains WebStorm](https://www.jetbrains.com/webstorm/). For my theme, I use the [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) plugin with the Material Oceanic theme.
