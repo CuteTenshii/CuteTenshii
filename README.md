@@ -1,8 +1,3 @@
-> [!CAUTION]
-> ## IF YOU NEED HELP FOR ONE OF MY PROJECTS PLEASE MP ME ON DISCORD: [`its.yuuto`](https://discord.com/users/269415459735076864) BUT NOT ON MY DISCORD SERVER. Thanks!
-
----
-
 # Hi! 👋
 
 [![miwa.lol/yuuto](https://img.shields.io/badge/my%20socials%20are%20on-miwa.lol%2Fyuuto-0e0d26)](https://miwa.lol/yuuto)
