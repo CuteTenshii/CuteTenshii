@@ -1,4 +1,4 @@
-# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=JustYuuto&label=profile+views&style=for-the-badge" align="right" />
+# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=JustYuuto&style=for-the-badge" align="right" />
 
 [![Miwa.lol/Yuuto](https://img.shields.io/badge/my%20socials-miwa.lol%2Fyuuto-0e0d26?style=for-the-badge)](https://miwa.lol/yuuto)
 [![Yuuto.dev](https://img.shields.io/badge/yuuto.dev-141f37?style=for-the-badge)](https://yuuto.dev)
