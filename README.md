@@ -6,6 +6,8 @@
 
 I'm Yuuto, a 17 yo student from France 🇫🇷.
 
+[My hardware](Hardware.md)
+
 ## What do I use?
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/firefox/new/)
