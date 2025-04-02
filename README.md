@@ -32,6 +32,7 @@ I'm Yuuto, a 17 yo student from France 🇫🇷.
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![macOS](https://img.shields.io/badge/macOS%20Ventura-fb8410?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/macos-ventura/id1638787999)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ### IDE
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
