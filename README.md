@@ -6,7 +6,7 @@
 
 I'm Yuuto, a 17 yo student from France 🇫🇷.
 
-[My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md)
+[My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
 ## What do I use?
 
