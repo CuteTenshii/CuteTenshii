@@ -6,7 +6,7 @@
 
 I'm Yuuto, a 17 yo student from France 🇫🇷.
 
-[My hardware](Hardware.md)
+[My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md)
 
 ## What do I use?
 
