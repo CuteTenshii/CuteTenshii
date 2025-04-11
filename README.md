@@ -4,7 +4,7 @@
 [![Yuuto.dev](https://img.shields.io/badge/yuuto.dev-141f37?style=for-the-badge)](https://yuuto.dev)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/JustYuuto)
 
-I'm Yuuto, a 17 yo student from France 🇫🇷.
+I'm Yuuto, a 17 yo student from France 🇫🇷. I started programming since my 11 yo. Sometimes I'm a sysadmin on my vps (really cool you'll see)
 
 [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
