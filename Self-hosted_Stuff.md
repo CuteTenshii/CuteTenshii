@@ -14,10 +14,6 @@ Sometimes I self-host software on my VPS. Here's a complete list of all the soft
 
 [Yuuto.dev analytics](https://analytics.yuuto.dev/yuuto.dev/) (yes with Plausible you can make a website analytics public)
 
-## Portainer
-
-[Portainer](https://www.portainer.io/) is a way for me to manage my 20 containers. I really like Docker Compose, but it was starting to be a mess when the `docker-compose.yml` was 200+ fking lines.
-
 ## NPMPlus
 
 [NPMplus](https://github.com/ZoeyVid/NPMplus) is a fork of [Nginx Proxy Manager](https://nginxproxymanager.com), which is a project that aims to manage Nginx directly from a web UI. This is very handsome because I don't have to edit Nginx configurations (and probably break everything 🥲)
