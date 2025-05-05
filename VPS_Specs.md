@@ -1,9 +1,9 @@
 # VPS Specs
 
-This is a VPS from [DigitalOcean](https://www.digitalocean.com/) (I use them only because I got a $200 credits with GitHub students).
+This is a VPS from [Linode](https://www.linode.com/)
 
-* OS: Ubuntu 24.10
-* RAM: 4GB
-* Storage: 80GB
-* CPU: 2 cores @ 2GHz
-* Location: United States 🇺🇸
+* OS: Ubuntu 24.04.2 LTS
+* RAM: 8GB (Swap RAM: 512MB)
+* Storage: 156GB
+* CPU: AMD EPYC 7713, 4 cores @ 2.00 GHz
+* Location: Los Angeles, California, United States
