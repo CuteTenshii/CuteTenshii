@@ -20,10 +20,6 @@ Sometimes I self-host software on my VPS. Here's a complete list of all the soft
 
 In addition to this reverse proxy, I use [Cloudflare](https://www.cloudflare.com/), which allows me to have [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3), [Early Hints](https://developer.mozilla.org/docs/Web/HTTP/Status/103), [their CDN](https://www.cloudflare.com/application-services/products/cdn/), [SSL certificates](https://www.cloudflare.com/application-services/products/ssl/) (NPM allows you to generate them but it's annoying to have to generate certificates for all the subdomains)...
 
-## [Uptime Kuma](https://status.miwa.lol)
-
-[Uptime Kuma](https://github.com/louislam/uptime-kuma) is a self-hosted monitoring tool that I use to monitor my website [Miwa.lol](https://miwa.lol) services (the website, the Discord bot, and CDN - which is just a Cloudflare R2 bucket).
-
 ## WireGuard
 
 [WireGuard](https://www.wireguard.com/) is a fast & secure VPN tunnel. My VPS is located in the United States, so this allows me to *travel* to the United States (at least, my Internet and my IP).
