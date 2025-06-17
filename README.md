@@ -1,10 +1,10 @@
-# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=JustYuuto&style=for-the-badge" align="right" />
+# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=CuteTenshii&style=for-the-badge&base=2615" align="right" />
 
-[![Miwa.lol/Yuuto](https://img.shields.io/badge/my%20socials-miwa.lol%2Fyuuto-0e0d26?style=for-the-badge)](https://miwa.lol/yuuto)
+[![Miwa.lol/Tenshii](https://img.shields.io/badge/my%20socials-miwa.lol%2Fyuuto-0e0d26?style=for-the-badge)](https://miwa.lol/tenshii)
 [![Yuuto.dev](https://img.shields.io/badge/yuuto.dev-141f37?style=for-the-badge)](https://yuuto.dev)
-[![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/JustYuuto)
+[![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
 
-I'm Yuuto, a 17 yo student from France 🇫🇷. I started programming since my 11 yo. Sometimes I'm a sysadmin on my vps (really cool you'll see)
+I'm Tenshii (you probably known me as Yuuto), a 17 yo student from France 🇫🇷. I started programming since my 11 yo.
 
 [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
@@ -47,5 +47,5 @@ I'm Yuuto, a 17 yo student from France 🇫🇷. I started programming since my 
 
 ---
 
-<!--[![Yuuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustYuuto&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Yuuto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustYuuto&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Tenshii's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuteTenshii&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Tenshii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CuteTenshii&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
