@@ -1,7 +1,7 @@
 # Hi! 👋 <img src="https://komarev.com/ghpvc/?username=CuteTenshii&style=for-the-badge&base=2615" align="right" />
 
-[![Miwa.lol/Tenshii](https://img.shields.io/badge/my%20socials-miwa.lol%2Fyuuto-0e0d26?style=for-the-badge)](https://miwa.lol/tenshii)
-[![Yuuto.dev](https://img.shields.io/badge/yuuto.dev-141f37?style=for-the-badge)](https://yuuto.dev)
+[![Miwa.lol/Tenshii](https://img.shields.io/badge/my%20socials-miwa.lol%2Ftenshii-0e0d26?style=for-the-badge)](https://miwa.lol/tenshii)
+[![Tenshii.moe](https://img.shields.io/badge/tenshii.moe-141f37?style=for-the-badge)](https://tenshii.moe)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
 
 I'm Tenshii (you probably known me as Yuuto), a 17 yo student from France 🇫🇷. I started programming since my 11 yo.
