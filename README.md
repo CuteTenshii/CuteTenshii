@@ -4,7 +4,7 @@
 [![Tenshii.moe](https://img.shields.io/badge/tenshii.moe-141f37?style=for-the-badge)](https://tenshii.moe)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
 
-I'm Tenshii (you probably known me as Yuuto), a 17 yo student from France 🇫🇷. I started programming since my 11 yo.
+I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France 🇫🇷. I started programming since my 11 yo.
 
 [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
