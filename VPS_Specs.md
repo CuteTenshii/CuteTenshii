@@ -1,6 +1,6 @@
 # VPS Specs
 
-This is a VPS from [Google Cloud](https://cloud.google.com/)
+This is a Compute Engine VM from [Google Cloud](https://cloud.google.com/)
 
 * OS: Ubuntu 25.04
 * RAM: 8GB
