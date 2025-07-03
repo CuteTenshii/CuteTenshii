@@ -8,11 +8,9 @@ Sometimes I self-host software on my VPS. Here's a complete list of all the soft
 
 [Vaultwarden](https://github.com/dani-garcia/vaultwarden) is a Bitwarden compatible server written in Rust.
 
-## [Plausible](https://analytics.yuuto.dev)
+## [Plausible](https://analytics.tenshii.moe)
 
 [Plausible](https://plausible.io/) is a privacy-friendly analytics tool. It's fully compliant with the GDPR, the CCPA and the PECR. Also, it has a much better UI than Google Analytics.
-
-[Tenshii.moe analytics](https://analytics.tenshii.moe/tenshii.moe/) (yes with Plausible you can make a website analytics public)
 
 ## Nginx Proxy Manager
 
