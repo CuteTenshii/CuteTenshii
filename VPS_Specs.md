@@ -1,9 +1,9 @@
 # VPS Specs
 
-This is a VPS from [Linode](https://www.linode.com/)
+This is a VPS from [Google Cloud](https://cloud.google.com/)
 
-* OS: Ubuntu 24.04.2 LTS
-* RAM: 8GB (Swap RAM: 26GB)
-* Storage: 132GB
-* CPU: AMD EPYC 7713, 4 cores @ 2.30 GHz
+* OS: Ubuntu 25.04
+* RAM: 8GB
+* Storage: 30GB
+* CPU: AMD EPYC 7B12, 8 cores @ 2.25 GHz
 * Location: Frankfurt am Main, Hesse, Germany
