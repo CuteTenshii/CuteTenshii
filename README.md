@@ -54,3 +54,8 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France ðŸ‡«ðŸ
 ---
 
 [![Tenshii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CuteTenshii&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
