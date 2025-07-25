@@ -3,6 +3,7 @@
 [![Miwa.lol/Tenshii](https://img.shields.io/badge/my%20socials-miwa.lol%2Ftenshii-0e0d26?style=for-the-badge)](https://miwa.lol/tenshii)
 [![Tenshii.moe](https://img.shields.io/badge/tenshii.moe-141f37?style=for-the-badge)](https://tenshii.moe)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
+[![wakatime](https://wakatime.com/badge/user/603df7a0-43ed-44a2-897f-8d90d700254e.svg?style=for-the-badge)](https://wakatime.com/@603df7a0-43ed-44a2-897f-8d90d700254e)
 
 I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France 🇫🇷. I started programming since my 11 yo.
 
