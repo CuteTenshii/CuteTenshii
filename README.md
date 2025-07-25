@@ -58,4 +58,9 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France ğŸ‡«ğŸ
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
