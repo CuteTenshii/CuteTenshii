@@ -7,11 +7,13 @@
 
 I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France ðŸ‡«ðŸ‡·. I started programming since my 11 yo.
 
-[My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
+I'm mostly interested in **web development**, but I also love **modding/hacking devices** with custom firmwares, jailbreaking iOS, or rooting Android devices.
+
+*Some links:* [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
 ---
 
-###### stuff i know/use:
+##### Stuff I know & use:
 
 ### OSes
 
@@ -29,10 +31,6 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France ðŸ‡«ðŸ
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-###### things I don't use anymore:
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ### Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,9 +38,6 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France ðŸ‡«ðŸ
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-###### things I don't use anymore:
-![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### Tools
 
@@ -53,6 +48,18 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France ðŸ‡«ðŸ
 ![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<details>
+  <summary><i>Familiar with (but not using)</i></summary>
+
+Stuff I used in the past, but that I haven't used in years. That doesn't mean I forgot how to use them :)
+
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
 
 ---
 
