@@ -81,11 +81,11 @@ Stuff I used in the past, but that I haven't used in years. That doesn't mean I 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.85 %
-Bash         56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-Go           54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-Other        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-XML          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+TypeScript       6 hrs 3 mins    ███████████████▓░░░░░░░░░   62.15 %
+Go               1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Bash             58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Other            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+GitIgnore file   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
