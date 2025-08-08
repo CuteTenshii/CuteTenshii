@@ -25,13 +25,16 @@ This file contains my hardware and their specs.
 
 ## Phone
 
-- Model: POCO X6 5G (23122PCD1G)
-- OS: Android 15 (HyperOS 2.0.6.0)
-- CPU: Snapdragon 7s Gen 2 Mobile Platform Octa-Core @ 2.40 GHz
-- RAM: 8GB
-- Storage: 256GB
+- Model: Honor 200 (ELI-NX9)
+- OS: Android 15 (MagicOS 9.0)
+- CPU: Qualcomm Snapdragon 7 Gen 3
+- RAM: 12GB
+- Storage: 512GB
 
-I also have an iPhone XR but it's iCloud-locked :(
+2nd phone:
+- Model: iPhone XR
+- OS: iOS 18.5
+- Storage: 64GB
 
 ## Tablet
 
