@@ -17,7 +17,7 @@ This file contains my hardware and their specs.
 ### Laptop
 
 - Model: HP EliteBook 840 G3
-- OS: macOS Ventura with OpenCore
+- OS: macOS Sequoia with OpenCore
 - CPU: Dual-Core Intel Core i5 @ 2.50 GHz
 - GPU: Intel HD Graphics 520
 - RAM: 16 GB DDR4
