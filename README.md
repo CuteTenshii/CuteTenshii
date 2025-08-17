@@ -80,11 +80,11 @@ Stuff I used in the past, but that I haven't used in years. That doesn't mean I 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript            19 hrs 31 mins  ██████████████▒░░░░░░░░░░   56.96 %
-Go                    9 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-JSON                  58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JavaScript            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-HTML                  38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+TypeScript            18 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.90 %
+Go                    8 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+JSON                  55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JavaScript            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+HTML                  42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
