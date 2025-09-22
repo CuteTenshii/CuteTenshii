@@ -78,11 +78,11 @@ I'm mostly interested in **web development**, but I also love **modding/hacking 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                     22 hrs 12 mins  ████████████░░░░░░░░░░░░░   47.69 %
-TypeScript             13 hrs 23 mins  ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-PowerShell             4 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Markdown               1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Docker                 1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Go               31 hrs 29 mins  ████████████████▓░░░░░░░░   66.25 %
+TypeScript       5 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+PowerShell       5 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Markdown         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+MDX              1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
