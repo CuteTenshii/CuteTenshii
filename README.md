@@ -1,4 +1,4 @@
-# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=CuteTenshii&base=2615" align="right" /><a href="https://wakatime.com/@603df7a0-43ed-44a2-897f-8d90d700254e"><img src="https://wakatime.com/badge/user/603df7a0-43ed-44a2-897f-8d90d700254e.svg" align="right" /></a>
+# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=CuteTenshii&base=2615" align="right" /><img src="https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=All%20time&color=blue" align="right" />
 
 <a href="https://tenshii.moe/?utm_source=github"><img src="https://img.shields.io/badge/my%20website-tenshii.moe-141f37" /></a>
 <a href="https://miwa.lol/tenshii"><img src="https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef" /></a>
@@ -12,6 +12,8 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France 🇫�
 I'm mostly interested in **web development**, but I also love **modding/hacking devices** with custom firmwares, jailbreaking iOS, or rooting Android devices.
 
 *Some links:* [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Tenshii&api_domain=wakapi.tenshii.moe&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+(All+Time)&layout=compact&langs_count=8)
 
 <details>
   <summary>Stuff I know & use:</summary>
@@ -72,17 +74,3 @@ I'm mostly interested in **web development**, but I also love **modding/hacking 
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
   </details>
 </details>
-
----
-
-<!--START_SECTION:waka-->
-
-```txt
-Go                  18 hrs 28 mins  ████████████░░░░░░░░░░░░░   48.03 %
-TypeScript          10 hrs 27 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-Markdown            1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-JavaScript          1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-HTML                1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-```
-
-<!--END_SECTION:waka-->
