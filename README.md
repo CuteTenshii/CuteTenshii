@@ -15,6 +15,8 @@ I'm mostly interested in **web development**, but I also love **modding/hacking 
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Tenshii&api_domain=wakapi.tenshii.moe&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+(All+Time)&layout=compact&langs_count=8)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1370735264678281257)](https://discord.com/users/1370735264678281257)
+
 <details>
   <summary>Stuff I know & use:</summary>
   
