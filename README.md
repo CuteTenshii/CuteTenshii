@@ -1,10 +1,11 @@
-# Hi! 👋 <img src="https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=All%20time&color=blue" align="right" />
+# Hi! 👋 
 
-<img src="https://komarev.com/ghpvc/?username=CuteTenshii&base=2615" align="right" />
-<a href="https://tenshii.moe/?utm_source=github"><img src="https://img.shields.io/badge/my%20website-tenshii.moe-141f37" /></a>
-<a href="https://miwa.lol/tenshii"><img src="https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef" /></a>
+[![Wakapi All Time](https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=wakapi:%20all%20time&color=blue)](https://wakatime.com/@Tenshii)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=CuteTenshii&base=2615)
+[![](https://img.shields.io/badge/my%20website-tenshii.moe-141f37)](https://tenshii.moe/?utm_source=github.com)
+[![](https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef)](https://miwa.lol/tenshii)
+
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
-
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q7ucz45v35fxxtywetkl89tf4t9d00efdr87x4f-FF9900?logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1q7ucz45v35fxxtywetkl89tf4t9d00efdr87x4f)
 [![Ethereum](https://img.shields.io/badge/Ethereum-0xF81704104E37a97338F58f27188a8760A15C8766-3C3C3D?logo=ethereum&logoColor=white)](https://etherscan.io/address/0xF81704104E37a97338F58f27188a8760A15C8766)
 
@@ -12,7 +13,7 @@ I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France 🇫�
 
 I'm mostly interested in **web development**, but I also love **modding/hacking devices** with custom firmwares, jailbreaking iOS, or rooting Android devices.
 
-*Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles)  [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
+*Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles) &bull; [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Tenshii&api_domain=wakapi.tenshii.moe&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+(All+Time)&layout=compact&langs_count=8)
 
