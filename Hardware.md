@@ -33,7 +33,7 @@ This file contains my hardware and their specs.
 
 2nd phone:
 - Model: iPhone XR
-- OS: iOS 18.5
+- OS: iOS 18.7.2
 - Storage: 64GB
 
 ## Tablet
