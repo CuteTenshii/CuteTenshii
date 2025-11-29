@@ -11,7 +11,7 @@
 
 I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France 🇫🇷. I started programming since my 11 yo.
 
-I'm mostly interested in **web development**, but I also love **modding/hacking devices** with custom firmwares, jailbreaking iOS, or rooting Android devices.
+I'm mostly interested in **web development** and **mobile apps development**, but I also love reverse-engineering, **modding/hacking devices** with custom firmwares, jailbreaking iOS, or rooting Android devices (at least, when OEMs let me...).
 
 *Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles) &bull; [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
