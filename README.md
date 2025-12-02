@@ -35,6 +35,8 @@ I'm mostly interested in **web development** and **mobile apps development**, bu
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324)
   
   ### 📚 Libraries & Frameworks
   
@@ -43,6 +45,8 @@ I'm mostly interested in **web development** and **mobile apps development**, bu
   ![Next.js](https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white)
   ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack%20Compose&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-0C1222?logo=astro&logoColor=FDFDFE)
   
   ### 🛠️ Tools
   
