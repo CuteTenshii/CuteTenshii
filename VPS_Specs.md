@@ -1,9 +1,9 @@
 # VPS Specs
 
-This is a Compute Engine VM from [Google Cloud](https://cloud.google.com/).
+This is a VPS from OVH.
 
 * OS: Ubuntu 24.04
-* RAM: 8GB
-* Storage: 40GB
-* CPU: Intel(R) Xeon(R), 4 cores @ 2.20 GHz
-* Location: Frankfurt am Main, Hesse, Germany
+* RAM: 12GB
+* Storage: 100GB
+* CPU: Intel Core Haswell, 6 cores @ 3.09 GHz
+* Location: Germany
