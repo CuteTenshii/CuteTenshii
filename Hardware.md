@@ -38,6 +38,8 @@ This file contains my hardware and their specs.
 - OS: iOS 18.7.2
 - Storage: 64GB
 
+<sub>--</sub>
+
 - Model: iPhone 13
 - OS: iOS 26.3 Beta
 - Storage: 128 GB
