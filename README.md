@@ -9,9 +9,7 @@
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q7ucz45v35fxxtywetkl89tf4t9d00efdr87x4f-FF9900?logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1q7ucz45v35fxxtywetkl89tf4t9d00efdr87x4f)
 [![Ethereum](https://img.shields.io/badge/Ethereum-0xF81704104E37a97338F58f27188a8760A15C8766-3C3C3D?logo=ethereum&logoColor=white)](https://etherscan.io/address/0xF81704104E37a97338F58f27188a8760A15C8766)
 
-I'm Tenshii (you probably known me as Yuuto), a 18 yo student from France 🇫🇷. I started programming since my 11 yo.
-
-I'm mostly interested in **web development** and **mobile apps development**, but I also love reverse-engineering, **modding/hacking devices** with custom firmwares, tweaking iOS, or rooting Android devices (at least, when OEMs let me...).
+I'm Tenshii, a 18 yo student from France 🇫🇷. I started programming since my 11 yo. I'm mostly interested in **web development** and **mobile apps development**. I also love reverse-engineering, **modding/hacking devices** with custom firmwares (such as the 3DS and Nintendo Switch), tweaking iOS, or rooting Android devices (*at least, when OEMs let me...*).
 
 *Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles) &bull; [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
 
