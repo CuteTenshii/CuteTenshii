@@ -11,6 +11,7 @@ This file contains my hardware and their specs.
 - GPU: NVIDIA GeForce RTX 3060 Ti
 - RAM: 32GB (4 x 8GB) DDR4
 - Storage:
+  - Predator SSD NVMe GM7000 1TB
   - PNY CS900 960GB
   - Samsung SSD 870 QVO 1TB
 
@@ -31,10 +32,15 @@ This file contains my hardware and their specs.
 - RAM: 12GB
 - Storage: 512GB
 
-2nd phone:
+### iPhones 
+
 - Model: iPhone XR
 - OS: iOS 18.7.2
 - Storage: 64GB
+
+- Model: iPhone 13
+- OS: iOS 26.3 Beta
+- Storage: 128 GB
 
 ## Tablet
 
