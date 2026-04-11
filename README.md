@@ -4,10 +4,7 @@
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=CuteTenshii&base=2615)
 [![](https://img.shields.io/badge/my%20website-tenshii.moe-141f37)](https://tenshii.moe/?utm_source=github.com)
 [![](https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef)](https://miwa.lol/tenshii)
-
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q7ucz45v35fxxtywetkl89tf4t9d00efdr87x4f-FF9900?logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1q7ucz45v35fxxtywetkl89tf4t9d00efdr87x4f)
-[![Ethereum](https://img.shields.io/badge/Ethereum-0xF81704104E37a97338F58f27188a8760A15C8766-3C3C3D?logo=ethereum&logoColor=white)](https://etherscan.io/address/0xF81704104E37a97338F58f27188a8760A15C8766)
 
 I'm Tenshii, a 18 yo student from France 🇫🇷. I started programming since my 11 yo. I'm mostly interested in **web development** and **mobile apps development**. I also love reverse-engineering, **modding/hacking devices** with custom firmwares (such as the 3DS and Nintendo Switch), tweaking iOS, or rooting Android devices (*at least, when OEMs let me...*).
 
