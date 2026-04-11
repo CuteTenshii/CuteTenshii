@@ -11,12 +11,7 @@
 
 I'm Tenshii, a 18 yo student from France 🇫🇷. I started programming since my 11 yo. I'm mostly interested in **web development** and **mobile apps development**. I also love reverse-engineering, **modding/hacking devices** with custom firmwares (such as the 3DS and Nintendo Switch), tweaking iOS, or rooting Android devices (*at least, when OEMs let me...*).
 
-*Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles) &bull; [My hardware](Hardware.md) &bull; [Self-hosted Stuff](Self-hosted_Stuff.md) &bull; [VPS Specs](VPS_Specs.md)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![Last.fm Recent Scrobbles](https://lastfm-recently-played.vercel.app/api?user=ItsYuuto&show_user=header&header_size=normal_stats)](https://www.last.fm/user/ItsYuuto)
+*Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles) &bull; [My hardware](Hardware.md)
 
 <details>
   <summary>Stuff I know & use:</summary>
