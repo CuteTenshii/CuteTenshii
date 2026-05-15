@@ -1,6 +1,6 @@
 # Hi! 👋 
 
-[Wakapi All Time](https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=wakapi:%20all%20time&color=blue)
+![Wakapi All Time](https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=wakapi:%20all%20time&color=blue)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=CuteTenshii)
 [![](https://img.shields.io/badge/my%20website-tenshii.moe-141f37)](https://tenshii.moe/)
 [![](https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef)](https://miwa.lol/tenshii)
