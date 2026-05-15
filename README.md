@@ -1,14 +1,15 @@
 # Hi! 👋 
 
-[![Wakapi All Time](https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=wakapi:%20all%20time&color=blue)](https://wakatime.com/@Tenshii)
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=CuteTenshii&base=2615)
-[![](https://img.shields.io/badge/my%20website-tenshii.moe-141f37)](https://tenshii.moe/?utm_source=github.com)
+[Wakapi All Time](https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=wakapi:%20all%20time&color=blue)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=CuteTenshii)
+[![](https://img.shields.io/badge/my%20website-tenshii.moe-141f37)](https://tenshii.moe/)
 [![](https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef)](https://miwa.lol/tenshii)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
 
-I'm Tenshii, a 18 yo student from France 🇫🇷. I started programming since my 11 yo. I'm mostly interested in **web development** and **mobile apps development**. I also love reverse-engineering, **modding/hacking devices** with custom firmwares (such as the 3DS and Nintendo Switch), tweaking iOS, or rooting Android devices (*at least, when OEMs let me...*).
+I'm Tenshii, a 18 yo student from France 🇫🇷. I started programming since my 11 yo.
 
-*Some links:* [My dotfiles [Arch/macOS &bull; Hyprland &bull; kitty &bull; waybar]](https://github.com/CuteTenshii/dotfiles) &bull; [My hardware](Hardware.md)
+I'm mostly doing **web development** and **mobile apps development**.<br>
+I also like reverse-engineering, **modding/hacking devices** with custom firmwares or tweaking the OS.
 
 <details>
   <summary>Stuff I know & use:</summary>
