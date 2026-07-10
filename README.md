@@ -1,12 +1,11 @@
 # Hi! 👋 
 
-![Wakapi All Time](https://img.shields.io/endpoint?url=https://wakapi.tenshii.moe/api/compat/shields/v1/Tenshii/interval:all_time&label=wakapi:%20all%20time&color=blue)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=CuteTenshii)
 [![](https://img.shields.io/badge/my%20website-tenshii.moe-141f37)](https://tenshii.moe/)
 [![](https://img.shields.io/badge/my%20socials-miwa.lol/tenshii-8534ef)](https://miwa.lol/tenshii)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CuteTenshii)
 
-I'm Tenshii, a 18 yo student from France 🇫🇷. I started programming since my 11 yo.
+I'm Tenshii, a 19 yo student from France 🇫🇷. I started programming since my 11 yo.
 
 I'm mostly doing **web development** and **mobile apps development**.<br>
 I also like reverse-engineering, **modding/hacking devices** with custom firmwares or tweaking the OS.
